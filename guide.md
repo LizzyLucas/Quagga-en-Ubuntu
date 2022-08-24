@@ -61,7 +61,7 @@ Instructivo para instalar Quagga en el S.O. Ubuntu LTS 16.04 de acuerdo a los re
 
 _NOTA: Debe aparecer una señal color verde, esto indica que todo ha salido bien. Si algo sale mal la señal será de color rojo._
 
-* ** Cambiar al directorio /etc/network con:**
+* **Cambiar al directorio /etc/network con:**
 
 	      # cd /etc/network
 
@@ -183,7 +183,7 @@ _NOTA: Debe aparecer una señal color verde, esto indica que todo ha salido bien
 
 _NOTA: Debe aparecer una señal color verde, esto indica que todo ha salido bien. Si algo sale mal la señal será de color rojo._
 
-* **Acceder a zebra para dar de alta la red principal con: **
+* **Acceder a zebra para dar de alta la red principal con:**
 	
 	    # telnet localhost 2601
 
